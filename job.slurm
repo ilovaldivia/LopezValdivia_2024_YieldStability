@@ -1,0 +1,1 @@
+#!/bin/bash #SBATCH --nodes=1 #SBATCH --ntasks=1 #SBATCH --mem=32GB #SBATCH --time=48:00:00 #SBATCH --partition=open  ../../../../OSR_v2/OpenSimRoot/StaticBuild/OpenSimRoot ../runMaize.xml 
