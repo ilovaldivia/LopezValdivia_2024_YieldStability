@@ -13,7 +13,7 @@ Once you have produced the desired input files, you need to run the simulations 
 You can also find the OSR engine in the folder "OSRv2". You just need to compile it on your computer/cluster, 
 and you should be ready to go!
 
-If you have any questions, please send me an email at valdivia@gatersleben.de.
+If you have any questions, please send me an email at valdivia@ipk-gatersleben.de.
 
 Thank you, and good luck with your simulations!
 
